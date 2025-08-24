@@ -26,7 +26,7 @@ func GetDBConfig() *DBConfig {
 		Host:     "localhost",
 		Port:     3306,
 		Username: "root",
-		Password: "lyd555625", // 默认密码，实际使用时请修改
+		Password: "root123", // 默认密码，实际使用时请修改
 		DBName:   "online_education_system",
 	}
 }
